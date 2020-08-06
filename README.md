@@ -1,4 +1,4 @@
-<h1>AI Programming with Python Project by Udacity<h1>
+<h1>AI Programming with Python Project by Udacity</h1>
   <h3>By : Qasim Hassan</h3>
 
 <h2>Introduction</h2>
